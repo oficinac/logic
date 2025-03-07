@@ -3,7 +3,7 @@
 Blockly Games: 
 https://blockly.games/maze?lang=en
 
-Irmão do Jorel
+Irmão do Jorel:
 https://mindmakers.cc/hourofcode/jorelsbrother.html
 
 Compute IT - Python:
