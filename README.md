@@ -3,6 +3,9 @@
 Blockly Games: 
 https://blockly.games/maze?lang=en
 
+Irmão do Jorel
+https://mindmakers.cc/hourofcode/jorelsbrother.html
+
 Compute IT - Python:
 https://compute-it.toxicode.fr/?hour-of-code&progression=python 
 
