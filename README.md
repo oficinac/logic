@@ -1,5 +1,11 @@
 # logic
 
+Game Be Internet Awesome
+https://beinternetawesome.withgoogle.com/pt-br_br/interland
+
+Compute IT - Python:
+https://compute-it.toxicode.fr/?hour-of-code&progression=python 
+
 Blockly Games: 
 https://blockly.games/maze?lang=en
 
@@ -12,16 +18,6 @@ https://mindmakers.cc/hourofcode/jorelsbrother.html
 Maps:
 https://mindmakers.cc/hourofcode/maps.html?d=1
 
-
-Compute IT - Python:
-https://compute-it.toxicode.fr/?hour-of-code&progression=python 
-
-Code Combat:
-https://codecombat.com/play/goblins-hoc?hour_of_code=true 
-
-Game Be Internet Awesome
-https://beinternetawesome.withgoogle.com/pt-br_br/interland
-
 Crie o game Flappy Bird:
 https://studio.code.org/flappy/1
 
@@ -31,9 +27,12 @@ https://codejr.org/scratchjr/index.html
 Scratch
 https://scratch.mit.edu/
 
-
 Microbit:
 https://makecode.microbit.org/77263-28298-50248-12347
+
+Code Combat:
+https://codecombat.com/play/goblins-hoc?hour_of_code=true 
+
 
 OLR
 https://gitlab.com/open-led-race/
