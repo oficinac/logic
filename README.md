@@ -25,6 +25,12 @@ https://beinternetawesome.withgoogle.com/pt-br_br/interland
 Crie o game Flappy Bird:
 https://studio.code.org/flappy/1
 
+Scratch Jr
+https://codejr.org/scratchjr/index.html
+
+Scratch
+https://scratch.mit.edu/
+
 
 Microbit:
 https://makecode.microbit.org/77263-28298-50248-12347
