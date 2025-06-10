@@ -33,6 +33,8 @@ https://makecode.microbit.org/77263-28298-50248-12347
 Code Combat:
 https://codecombat.com/play/goblins-hoc?hour_of_code=true 
 
+Linguagem Turtle
+https://www.calormen.com/jslogo/#
 
 OLR
 https://gitlab.com/open-led-race/
