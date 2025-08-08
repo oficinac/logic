@@ -27,6 +27,9 @@ https://codejr.org/scratchjr/index.html
 Scratch
 https://scratch.mit.edu/
 
+Tutorial Scratch
+https://projects.raspberrypi.org/pt-BR/interests/games
+
 Microbit:
 https://makecode.microbit.org/77263-28298-50248-12347
 
