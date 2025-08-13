@@ -36,6 +36,12 @@ https://makecode.microbit.org/77263-28298-50248-12347
 Code Club (Raspberry Pi Foundation)
 https://projects.raspberrypi.org/pt-BR/
 
+Gdevelop:
+https://gdevelop.io/pt-br
+
+Tutorial Gdevelop
+https://wiki.gdevelop.io/gdevelop5/tutorials/platformer/
+
 Code Combat:
 https://codecombat.com/play/goblins-hoc?hour_of_code=true 
 
